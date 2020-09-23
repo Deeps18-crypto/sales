@@ -1,0 +1,24 @@
+.Course {
+  background-color: red;
+  margin: 6px auto;
+  border: 1px solid wheat;
+  box-shadow: 0 2px 3px #ccc;
+  padding: 6px;
+  width: 30%;
+}
+.Course p:hover,
+.Course p:active,
+.Course p.active {
+  background-color: salmon;
+}
+.Courses {
+  background-color: green;
+  margin: 6px auto;
+  border: 1px solid wheat;
+  box-shadow: 0 2px 3px #ccc;
+  padding: 6px;
+  width: 30%;
+}
+.Courses:hover {
+  background-color: greenyellow;
+}
